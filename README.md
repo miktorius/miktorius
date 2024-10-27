@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working at Yandex<br>🌱 Love learning new technologies
+🔭 I’m working on a distributed and highly available monitoring service<br>🌱 Love learning new technologies
 
 
 # 💻 Tech Stack:
